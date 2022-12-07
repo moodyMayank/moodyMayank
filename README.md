@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **ReactJS, Redux**
 
-- 📝 I regularly write articles on [https://frontendskool.hashnode.dev/](https://frontendskool.hashnode.dev/)
+- 📝 I regularly write articles on [https://frontendskool.hashnode.dev/](Blog Link)
 
 - 💬 Ask me about **Frontend Development**
 
 - 📫 How to reach me **mayankbudhiraja88@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Z9AgDnrZpne5Qom3nfAqYJLIBHb0MY-4/view?usp=sharing](https://drive.google.com/file/d/1Z9AgDnrZpne5Qom3nfAqYJLIBHb0MY-4/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Z9AgDnrZpne5Qom3nfAqYJLIBHb0MY-4/view?usp=sharing](Resume Link)
 
 - ⚡ Fun fact **I hate Frontend Coding and just after 10 mins, I want to become the best frontend developer**
 

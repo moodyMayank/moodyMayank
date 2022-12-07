@@ -15,7 +15,6 @@
 
 - ⚡ Fun fact **I hate Frontend Coding and just after 10 mins, I want to become the best frontend development**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/moody_mayank" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="moody_mayank" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mayank-kumar-83a623193" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayank-kumar-83a623193" height="30" width="40" /></a>

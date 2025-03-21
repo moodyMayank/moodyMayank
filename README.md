@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/moody_mayank" target="blank"><img src="https://img.shields.io/twitter/follow/moody_mayank?logo=twitter&style=for-the-badge" alt="moody_mayank" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJS, Redux**
+- 🌱 I’m working as a frontend engineer for 3 years.
 
 - 📝 I regularly write articles on [Blog Link](https://frontendskool.hashnode.dev/)
 

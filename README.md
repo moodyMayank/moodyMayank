@@ -5,13 +5,11 @@
 
 - 🌱 I’m working as a frontend engineer for 3 years.
 
-- 📝 I regularly write articles on [Blog Link](https://frontendskool.hashnode.dev/)
-
 - 💬 Ask me about **Frontend Development**
 
 - 📫 How to reach me **mayankbudhiraja88@gmail.com**
 
-- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1Z9AgDnrZpne5Qom3nfAqYJLIBHb0MY-4/view?usp=sharing)
+- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1tdcY31kOzbCH8sa0QrVr9WMtujUtCTtc/view?usp=sharing)
 
 - ⚡ Fun fact **I hate Frontend Coding and just after 10 mins, I want to become the best frontend developer**
 
